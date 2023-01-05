@@ -1,1 +1,2 @@
 
+var comment=require('remote')
