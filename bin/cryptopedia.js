@@ -4,7 +4,7 @@ const program=require('commander');
 const pkg=require('../package.json')
 program
     .version(pkg.version)
-    .command('key','Manage API Key --https://coinmarketcap.com/')
+    .command('key','Manage API Key --')
     .parse(process.argv)
 
 console.log("hello ");
