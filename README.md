@@ -14,23 +14,23 @@ npm link
 
 1. Help & Commands
 
-coindex -h
+cryptopedia -h
 
 2. Version
 
-coindex -V
+cryptopedia -V
 
 3. API Key Commands
 
-coindex key set\
-coindex key show\
-coindex key remove
+cryptopedia key set\
+cryptopedia key show\
+cryptopedia key remove
 
 4. Crypto Check Commands
-coindex check price
+cryptopedia check price
 
 5. Check Specific Coins (default: BTN,ETH,XRP)
-coindex check --coin=BTC,ETH
+cryptopedia check --coin=BTC,ETH
 
 
 ## Version
